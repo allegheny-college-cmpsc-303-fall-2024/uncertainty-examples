@@ -5,7 +5,7 @@ This directory contains the implementation of a simple Bayesian network
 <img src="https://user-images.githubusercontent.com/99038613/176780156-0c407208-1fab-4106-baf0-27e43510820b.jpg" width="60%" height="60%">
 
 > [!IMPORTANT]
-> You must use `pip install pomegranate==v0.14.9` for this example to work
+> You must use `pip install pomegranate==v0.15.0` for this example to work
 
 ## Model
 
