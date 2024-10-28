@@ -1,6 +1,12 @@
 # Uncertainty Examples
 
-3 examples for uncertainty in AI:
+## Examples in Colab
+
+- [Monty Hall problem](https://colab.research.google.com/drive/1HvE_eIDCwVUGaBEr_SC-UEah41v0_fiy?usp=sharing)
+- [negation rule with illness + birthday problem](https://colab.research.google.com/drive/1pYi7l20Edtf2Hw2OpGmojcTVWoksmcKP?usp=sharing)
+- [`bayesnet`](https://colab.research.google.com/drive/1bQQZ3A-mnMchmdh7VGS6dHe_KtYQpKSe?usp=sharing)
+
+## Examples in this Repo
 
 - `bayesnet`: Introduces the Python implementation of Bayesian Networks
 - `chain`: Demonstrates how Markov Chain works
